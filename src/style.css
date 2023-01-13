@@ -22,11 +22,11 @@
     position: absolute;
     bottom: 0;
     width: 150px;
-    animation: eggman-animation 1450ms infinite linear;
+    animation: eggman-animation 1.5s infinite linear;
 }
 
 .jump {
-    animation: sonic-jump 1s ease-out;
+    animation: sonic-jump 785ms ease-out;
 }
 
 @keyframes eggman-animation {
